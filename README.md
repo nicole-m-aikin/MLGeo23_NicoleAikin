@@ -27,7 +27,7 @@ To run the notebook included here:
 To clone this repository, use the following command:
 
 ```bash
-git clone https://github.com/UW-ESS-DS/MLGEO2023_NicoleAikin.git
+git clone https://github.com/nicole-m-aikin/MLGeo23_NicoleAikin
 ```
 
 
@@ -38,7 +38,7 @@ Below are the commands I used to clone and update my repository:
 
 ```bash
 # Clone the repository
-git clone https://github.com/UW-ESS-DS/MLGEO2023_NicoleAikin.git
+git clone https://github.com/nicole-m-aikin/MLGeo23_NicoleAikin
 
 # Change directory into the cloned repo
 cd MLGEO2023_NicoleAikin
